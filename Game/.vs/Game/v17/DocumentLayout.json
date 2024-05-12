@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_project\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|D:\\My_project\\Game\\game\\frm_two_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\frm_two_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|D:\\My_project\\Game\\game\\frm_one_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\frm_one_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|d:\\my_project\\game\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|D:\\My_project\\Game\\game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|D:\\My_project\\Game\\game\\frm_two_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\frm_two_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|D:\\My_project\\Game\\game\\frm_one_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E759B5-16D2-424C-9E70-2D4DF6B772E3}|Game\\Game.csproj|solutionrelative:game\\frm_one_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\Main.cs",
+              "RelativeDocumentMoniker": "Game\\Main.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\Main.cs",
+              "RelativeToolTip": "Game\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:21:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_two_player.cs",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\frm_two_player.cs",
+              "RelativeDocumentMoniker": "Game\\frm_two_player.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\frm_two_player.cs",
+              "RelativeToolTip": "Game\\frm_two_player.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAIA+wFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:36:20.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_one_player.cs",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\frm_one_player.cs",
+              "RelativeDocumentMoniker": "Game\\frm_one_player.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\frm_one_player.cs",
+              "RelativeToolTip": "Game\\frm_one_player.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAASwHoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:34:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_two_player.cs [Design]",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\frm_two_player.cs",
+              "RelativeDocumentMoniker": "Game\\frm_two_player.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\frm_two_player.cs [Design]",
+              "RelativeToolTip": "Game\\frm_two_player.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:28:41.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_one_player.cs [Design]",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\frm_one_player.cs",
+              "RelativeDocumentMoniker": "Game\\frm_one_player.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\frm_one_player.cs [Design]",
+              "RelativeToolTip": "Game\\frm_one_player.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:58:45.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\My_project\\Game\\Game\\Main.cs",
+              "RelativeDocumentMoniker": "Game\\Main.cs",
+              "ToolTip": "D:\\My_project\\Game\\Game\\Main.cs [Design]",
+              "RelativeToolTip": "Game\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:37:42.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

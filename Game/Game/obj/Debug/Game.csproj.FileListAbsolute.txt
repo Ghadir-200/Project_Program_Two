@@ -1,0 +1,14 @@
+D:\My_project\Game\Game\bin\Debug\Game.exe.config
+D:\My_project\Game\Game\bin\Debug\Game.exe
+D:\My_project\Game\Game\bin\Debug\Game.pdb
+D:\My_project\Game\Game\bin\Debug\Guna.UI2.dll
+D:\My_project\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\My_project\Game\Game\obj\Debug\Game.Main.resources
+D:\My_project\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\My_project\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\My_project\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\My_project\Game\Game\obj\Debug\Game.csproj.Up2Date
+D:\My_project\Game\Game\obj\Debug\Game.exe
+D:\My_project\Game\Game\obj\Debug\Game.pdb
+D:\My_project\Game\Game\obj\Debug\Game.frm_one_player.resources
+D:\My_project\Game\Game\obj\Debug\Game.frm_two_player.resources
